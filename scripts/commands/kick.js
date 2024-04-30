@@ -1,6 +1,6 @@
 module.exports.config = {
   name: "kick",
-  version: "1.0.0", 
+  version: "0.0.2", 
   permssion: 2,
   prefix: true,
   credits: "Mirai Team",
